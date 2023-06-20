@@ -1,2 +1,6 @@
 # pupil_habituation_23
-This repository includes scripts used for stimuli presentation and pre-processing of eye-tracking data (including pupillometry) for a follow-up infant experiment testing habituation in sound-induced arousal.
+This repository includes scripts used for stimuli presentation and pre-processing of eye-tracking, pupillometry data for an infant experiment testing habituation in sound-induced arousal.
+
+Habituation to repeated sounds (6 repetitions) was tested in 5-month-old infants while watching to a video display of a toy car running. There were two conditions:
+1) multi-sensory event: synchronous sound presentation to concurrent visual event (car hitting a wall) in the video.
+2) uni-sensory event: asynchronous audio-visual presentation (sound presented suddenly while the car was running in circle).
